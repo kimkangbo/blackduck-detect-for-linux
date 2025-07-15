@@ -1,0 +1,5 @@
+Your use of Project Inspector is governed by the EULM or other license
+agreement that your company has in place with Black Duck.
+In the event that your company does not have a EULM or other license agreement
+in place and active with Black Duck, you are strictly prohibited from accessing,
+downloading or using Project Inspector.
