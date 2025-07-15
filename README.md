@@ -104,20 +104,17 @@ Download
 |:------------:|--------------------------------------------------------------------------------------------------------------------------------------|
 |   windows    | [blackduck-detect-for-windows](https://github.com/AhnLab-OSSG/blackduck-detect-for-windows)                     |
 |    linux     | [blackduck-detect-for-linux](https://github.com/AhnLab-OSSG/blackduck-detect-for-linux)                         |
-| alpine linux | [blackduck-detect-for-linux](https://github.com/AhnLab-OSSG/blackduck-detect-for-alpine-linux)                         |
-| macos-arm_64 | [blackduck-detect-for-macos-arm_64](https://github.com/AhnLab-OSSG/blackduck-detect-for-macos-arm_64)           |
-| macos-x64 | [blackduck-detect-for-macos-x64](https://github.com/AhnLab-OSSG/blackduck-detect-for-macos-x64) |
 
-또는 빌드 머신에서 아래의 명령어를 통해 REPOS에서 저장소를 다운로드받을 수 있습니다.
+또는 빌드 머신에서 아래의 명령어를 통해 github.com에서 저장소를 다운로드받을 수 있습니다.
 
-    git clone https://repos.ahnlab.com/scm/open/{{소스 코드 저장소}}.git
+    git clone https://github.com/AhnLab-OSSG/{{소스 코드 저장소}}.git
 
 How to Use
 =========
 
 ### 1. 최신 릴리즈 버전 다운로드
 
-OS 환경에 따라 REPOS에서 최신 릴리즈 버전을 다운로드 받습니다.
+OS 환경에 따라 github.com에서 최신 릴리즈 버전을 다운로드 받습니다.
 
 ### 2. 실행 스크립트 선택
 
@@ -127,9 +124,6 @@ OS 환경에 따라 REPOS에서 최신 릴리즈 버전을 다운로드 받습�
 |--------------|-------------------------|
 | windows      | scan_windows_online.bat |
 | linux        | scan_linux_online.sh    |
-| alpine linux | scan_linux_online.sh    |
-| macos-x86_64 | scan_linux_online.sh    |
-| macos-arm_64 | scan_linux_online.sh    |
 
 ### 3. 스크립트 실행
 
